@@ -40,13 +40,17 @@ src/
 ├── main.jsx
 └── index.css
 
-Tecnologías y Herramientas Utilizadas
+---
+
+## Tecnologías y Herramientas Utilizadas
     React (Vite) — Biblioteca de JavaScript para la construcción de interfaces de usuario.
     Tailwind CSS — Framework de CSS utilitario para diseño moderno y responsive.
     JavaScript (ES6+) — Lógica de componentes, props, hooks (useState) y métodos de arreglos (map, filter).
     Git / GitHub — Control de versiones.
 
-⚙️ Instrucciones de Instalación y Ejecución local
+---
+
+## ⚙️ Instrucciones de Instalación y Ejecución local
 
     Para poner en marcha el proyecto en tu entorno local, seguí estos pasos:
 
@@ -66,6 +70,9 @@ Tecnologías y Herramientas Utilizadas
 
     Abrí tu navegador y ingresá a la dirección local provista por Vite (por lo general http://localhost:5173/).   
 
-👨‍💻 Autor / Estudiante : LEONARDO MESTRITUA
+---
+
+
+## 👨‍💻 Autor / Estudiante : LEONARDO MESTRITUA
 Materia: Programación Web Avanzada
 Proyecto: TP3 - React + Tailwind CSS (Proyecto Integrador)[cite: 1]
