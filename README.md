@@ -39,7 +39,7 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
-
+```
 ---
 
 ## Tecnologías y Herramientas Utilizadas
